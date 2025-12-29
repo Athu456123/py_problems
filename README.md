@@ -1,2 +1,2 @@
 # py_problems
-This repo is for the my coding practice
+This repo is for my coding practice
